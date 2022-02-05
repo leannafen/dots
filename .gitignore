@@ -1,0 +1,30 @@
+*.DS_Store
+
+# home folders & files
+/Applications
+/Code
+/Desktop
+/Documents
+/Downloads
+/Games
+/Library
+/Movies
+/Music
+/Pictures
+/Public
+.CFUserTextEncoding
+.cache/
+.cargo/
+.local/
+.npm/
+.profile
+.rustup/
+.viminfo
+.zprofile
+.zsh_history
+.zsh_sessions/
+.zshenv
+
+# .config/
+.config/gh
+

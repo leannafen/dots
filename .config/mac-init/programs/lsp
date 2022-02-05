@@ -1,0 +1,13 @@
+clangd
+cmake
+csharp_ls
+cssls
+html
+jsonls
+lemminx
+pyright
+rust_analyzer
+sumneko_lua
+taplo
+tsserver
+zk

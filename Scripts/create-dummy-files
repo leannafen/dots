@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# create-dummies
+# #####################
+# - creates dummy files for script testing
+#
+# * media-rename: 01 - Song Title (feat. Artist)
+
+touch "Test-Files/01 - Song Title (feat. Artist).mp3"
