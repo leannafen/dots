@@ -1,3 +1,6 @@
 [submodule "Scripts/mac-init"]
 	path = Scripts/mac-init
 	url = https://github.com/leannafen/mac-init
+[submodule "Scripts/amdrpc"]
+	path = Scripts/amdrpc
+	url = https://github.com/NextFire/apple-music-discord-rpc
