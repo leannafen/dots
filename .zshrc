@@ -15,7 +15,7 @@ PS1="%B%F{195}%n%b%f %~ > "
 
 # alias
 alias c="clear"                         # clear screen
-alias l="ls"                            # list directory content
+alias l="lsd"                           # list directory content
 alias t="tree"                          # list dir content in tree format
 alias v="nvim"                          # text editor
 alias zrce="$EDITOR $HOME/.zshrc"       # edit zshrc
