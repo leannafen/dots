@@ -11,7 +11,7 @@ precmd () { vcs_info }
 source /opt/homebrew/Cellar/zsh-autosuggestions/0.7.0/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # color guide > https://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
-PS1="%B%F{195}%n%b%f %~ > "
+PS1="%B%F{69}%n%b%f %~ > "
 
 # alias
 alias c="clear"                         # clear screen
