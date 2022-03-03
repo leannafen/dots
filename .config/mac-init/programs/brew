@@ -1,4 +1,3 @@
-bashdb
 deno
 fzf
 gh
@@ -11,12 +10,8 @@ npm
 pyright
 python3
 rust-analyzer
-shfmt
 tree
 tree-sitter
 universal-ctags
-unzip
 virtualenv
-wget
-zip
 zsh-autosuggestions
