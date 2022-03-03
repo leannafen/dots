@@ -18,7 +18,6 @@ alias c="clear"                         # clear screen
 alias l="lsd"                           # list directory content
 alias t="tree"                          # list dir content in tree format
 alias v="nvim"                          # text editor
-alias zrce="$EDITOR $HOME/.zshrc"       # edit zshrc
 
 # custom script path
 export PATH="$PATH:~/Scripts"
