@@ -1,5 +1,5 @@
 # enable vim binding
-bindkey -v
+# bindkey -v
 
 # autocorrect
 setopt correct
