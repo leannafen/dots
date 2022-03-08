@@ -1,14 +1,15 @@
+clang-format
 deno
 fzf
 gh
 git
 lsd
 mas
-neofetch
 neovim
 npm
 pyright
 python3
+rgbds
 rust-analyzer
 tree
 tree-sitter
