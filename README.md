@@ -1,3 +1,4 @@
-my macOS dotfiles~
+# arch dots
+dotfiles used for my terminal-only linode instance
 
-this is my main work machine. 
+
